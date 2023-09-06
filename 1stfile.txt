@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello python-1
 hello python-2
 <<<<<<< HEAD
@@ -14,3 +15,7 @@ python -6
 python-7
 >>>>>>> 5b244e523ffc2c40db1634c53ccee703267f8d65
 
+=======
+hello python1
+hello python 2
+>>>>>>> 06bec813c71a96627dbc83e7b1ae3d4f18181de4
