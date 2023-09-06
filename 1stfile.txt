@@ -1,13 +1,1 @@
-hello python
-hello python2
-<<<<<<< HEAD
-
-hello python3
-hello python4
-
-hello python 5
-
-
-=======
->>>>>>> a338df58fe17792c71bb6e2a4d2549b3d3c99a12
-
+hello python-1
