@@ -1,4 +1,8 @@
 hello python-1
 hello python-2
+<<<<<<< HEAD
 hello python-4
+=======
+hello python-3
+>>>>>>> 9d220bfa62681f06c8fe5af22d6f6343897afc61
 
